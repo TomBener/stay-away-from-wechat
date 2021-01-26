@@ -2,7 +2,7 @@
 
 > 搜集微信的无理审查行为、侵犯用户隐私、监控聊天记录等恶劣行径的证据，倡导用户拒绝使用微信。
 >
-> 欢迎提 Pull Request 和 Issues。
+> 欢迎提 Issues 和 Pull Requests。
 
 ## 公开新闻报道
 
@@ -24,6 +24,7 @@
 
 ## Further Reading
 
+- [无所隐瞒论 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/无所隐瞒论)
 - [Right to privacy — Can online communication be private?](https://mohammad-shavez.medium.com/right-to-privacy-can-online-communication-be-private-d825f659a60c)
 - [Are you free on the Internet?](https://mohammad-shavez.medium.com/are-you-free-on-the-internet-8fa7ea71a2bb)
 - [The Right to Privacy](https://louisville.edu/law/library/special-collections/the-louis-d.-brandeis-collection/the-right-to-privacy)
