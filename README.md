@@ -1,6 +1,6 @@
 # 人生苦短，远离微信
 
-> 搜集微信的无理审查行为、侵犯用户隐私、监控聊天记录等恶劣行径的证据，倡导用户拒绝使用微信。
+> 收集微信的无理审查行为、侵犯用户隐私、监控聊天记录等恶劣行径的证据，倡导用户拒绝使用微信。
 >
 > 欢迎提 [Issues](https://github.com/TomBener/get-rid-of-wechat/issues) 和 [Pull requests](https://github.com/TomBener/get-rid-of-wechat/pulls)。
 
