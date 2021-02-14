@@ -1,5 +1,7 @@
 # 人生苦短，远离微信
 
+<center><b>没有人知道变化是怎么发生的，但是当有人意识到这种变化似乎是个问题的时候，所有的挽救措施都已经来不及了。</b></center>
+
 > 收集微信的无理审查行为、侵犯用户隐私、监控聊天记录等恶劣行径的证据，倡导用户拒绝使用微信。
 >
 > 欢迎提 [Issues](https://github.com/TomBener/get-rid-of-wechat/issues) 和 [Pull requests](https://github.com/TomBener/get-rid-of-wechat/pulls)。
@@ -51,3 +53,4 @@
 - [Right to privacy — Can online communication be private? - Medium](https://mohammad-shavez.medium.com/right-to-privacy-can-online-communication-be-private-d825f659a60c)
 - [Are you free on the Internet? - Medium](https://mohammad-shavez.medium.com/are-you-free-on-the-internet-8fa7ea71a2bb)
 - [The Right to Privacy - Harvard Law Review](https://louisville.edu/law/library/special-collections/the-louis-d.-brandeis-collection/the-right-to-privacy)
+- [Why Privacy Matters - TED](https://youtu.be/pcSlowAhvUk)
