@@ -11,6 +11,7 @@
 - [人生苦短，远离微信](#人生苦短远离微信)
   - [公开报道](#公开报道)
   - [学术研究](#学术研究)
+  - [用户吐槽](#用户吐槽)
   - [微信之外的选择](#微信之外的选择)
     - [即时通讯](#即时通讯)
     - [信息获取](#信息获取)
@@ -34,6 +35,14 @@
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch/) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
 
+## 用户吐槽
+
+| [逃离微信控制的一千个小时 - 少数派](https://sspai.com/post/37557) | [Archive](https://telegra.ph/逃离微信控制的一千个小时---少数派-02-04) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [无法理解的「拍一拍」- Twitter](https://twitter.com/cyanapps/status/1356439428906983427) |          [Archive](http://archive.today/wip/36mLy)           |
+| [微信 = GFW - 一天世界](https://blog.yitianshijie.net/2018/02/02/wechat-equals-gfw) | [Archive](https://web.archive.org/web/20201203020925/https://blog.yitianshijie.net/2018/02/02/wechat-equals-gfw) |
+| [微信，是一个生活方式 - 一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle) |              [Archive](http://archive.vn/eJI0b)              |
+
 ## 微信之外的选择
 
 ### 即时通讯
@@ -46,6 +55,7 @@
 
 - [RSS](https://en.wikipedia.org/wiki/RSS)
 - [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
+- ……
 
 ## Further Reading
 
