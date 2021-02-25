@@ -1,4 +1,4 @@
-# 人生苦短，远离微信
+<h1>人生苦短，远离微信</h1>
 
 <p style="color:gray">收集微信的无理审查行为、侵犯用户隐私、监控聊天记录等恶劣行径的证据，倡导用户拒绝使用微信 👎️。欢迎提 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
 </p> <br>
@@ -8,17 +8,15 @@
 > 没有人知道变化是怎么发生的，但是当有人意识到这种变化似乎是个问题的时候，所有的挽救措施都已经来不及了。
 
 
-**目录**
+<h2>目录</h2>
 
-- [人生苦短，远离微信](#人生苦短远离微信)
-  - [公开报道](#公开报道)
-  - [学术研究](#学术研究)
-  - [用户吐槽](#用户吐槽)
-  - [微信之外的选择](#微信之外的选择)
-    - [即时通讯](#即时通讯)
-    - [信息获取](#信息获取)
-  - [Further Reading](#further-reading)
-
+- [公开报道](#公开报道)
+- [学术研究](#学术研究)
+- [用户吐槽](#用户吐槽)
+- [微信之外的选择](#微信之外的选择)
+  - [即时通讯](#即时通讯)
+  - [信息获取](#信息获取)
+- [Further Reading](#further-reading)
 
 ## 公开报道
 
@@ -37,27 +35,32 @@
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch/) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
 
+
 ## 用户吐槽
 
-| [逃离微信控制的一千个小时 - 少数派](https://sspai.com/post/37557) | [Archive](https://telegra.ph/逃离微信控制的一千个小时---少数派-02-04) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [无法理解的「拍一拍」- Twitter](https://twitter.com/cyanapps/status/1356439428906983427) |          [Archive](http://archive.today/wip/36mLy)           |
-| [微信 = GFW - 一天世界](https://blog.yitianshijie.net/2018/02/02/wechat-equals-gfw) | [Archive](https://web.archive.org/web/20201203020925/https://blog.yitianshijie.net/2018/02/02/wechat-equals-gfw) |
-| [微信，是一个生活方式 - 一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle) |              [Archive](http://archive.vn/eJI0b)              |
+- [逃离微信控制的一千个小时 - 少数派](https://sspai.com/post/37557)，[Archive](https://telegra.ph/逃离微信控制的一千个小时---少数派-02-04)
+- [无法理解的「拍一拍」- Twitter](https://twitter.com/cyanapps/status/1356439428906983427)，[Archive](http://archive.today/wip/36mLy)
+- [微信 = GFW - 一天世界](https://blog.yitianshijie.net/2018/02/02/wechat-equals-gfw)，[Archive](https://web.archive.org/web/20201203020925/https://blog.yitianshijie.net/2018/02/02/wechat-equals-gfw)
+- [微信，是一个生活方式 - 一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)，[Archive](http://archive.vn/eJI0b)
+- [微信做了哪些恶 - Twitter](https://twitter.com/fak3D0nA1dT3UmP/status/1216446242131046400)，[Archive](https://web.archive.org/web/20210225073106/https://twitter.com/fak3D0nA1dT3UmP/status/1216446242131046400)
+- [微信十年的产品思考](https://imzm.im/my-thoughts-on-wechat-ten-years)，[Archive](https://ipfs.io/ipfs/QmWx8239FEJYTmEMHNojWybWYbpsQRYs1XgYgB5bLUoQjS)
+- [微信给我推荐广场舞内容之后](https://www.huhexian.com/3766.html)，[Archive](https://web.archive.org/web/20210225070506/https://www.huhexian.com/3766.html)
+
 
 ## 微信之外的选择
 
 ### 即时通讯
 
-- [iMessage](https://support.apple.com/zh-cn/explore/messages)
-- [Telegram](https://telegram.org)
+- [iMessage](https://support.apple.com/zh-cn/explore/messages)（苹果设备）
+- [Telegram](https://telegram.org)（强烈推荐）
 - [Signal](https://signal.org)
 
 ### 信息获取
 
-- [RSS](https://en.wikipedia.org/wiki/RSS)
+- [RSS](https://en.wikipedia.org/wiki/RSS)（[All About RSS](https://github.com/AboutRSS/ALL-about-RSS)）
 - [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
 - ……
+
 
 ## Further Reading
 
