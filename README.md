@@ -1,22 +1,25 @@
 <h1>人生苦短，远离微信</h1>
 
-<p style="color:gray">收集微信的无理审查行为、侵犯用户隐私、监控聊天记录等恶劣行径的证据，倡导用户拒绝使用微信 👎️。欢迎提 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
+<p style="color:gray">收集微信的无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等资料，倡导用户拒绝使用微信 👎️。欢迎提 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
 </p> <br>
 
 > 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
 
-> 没有人知道变化是怎么发生的，但是当有人意识到这种变化似乎是个问题的时候，所有的挽救措施都已经来不及了。
+> 在网络管制如此之严厉的内地，似乎也只有微信能保证一贯的通畅和高速。但更深层的原因恐怕是长时间被剥夺选择权带来的思维懒惰：既然只要打开微信就可以社交、阅读、消费，我为什么还要花时间去外面的世界一个个找呢？ —— [PlatyHsu](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/)
+
+> 没有人知道变化是怎么发生的，但是当有人意识到这种变化似乎是个问题的时候，所有的挽救措施都已经来不及了。请勿寄希望于对方做出改变，自由只能通过自己争取而来。
 
 
 <h2>目录</h2>
 
 - [公开报道](#公开报道)
 - [学术研究](#学术研究)
-- [用户吐槽](#用户吐槽)
+- [用户不满](#用户不满)
 - [微信之外的选择](#微信之外的选择)
   - [即时通讯](#即时通讯)
   - [信息获取](#信息获取)
 - [Further Reading](#further-reading)
+
 
 ## 公开报道
 
@@ -36,7 +39,7 @@
 | 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch/) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
 
 
-## 用户吐槽
+## 用户不满
 
 - [逃离微信控制的一千个小时 - 少数派](https://sspai.com/post/37557)，[Archive](https://telegra.ph/逃离微信控制的一千个小时---少数派-02-04)
 - [无法理解的「拍一拍」- Twitter](https://twitter.com/cyanapps/status/1356439428906983427)，[Archive](http://archive.today/wip/36mLy)
@@ -45,6 +48,7 @@
 - [微信做了哪些恶 - Twitter](https://twitter.com/fak3D0nA1dT3UmP/status/1216446242131046400)，[Archive](https://web.archive.org/web/20210225073106/https://twitter.com/fak3D0nA1dT3UmP/status/1216446242131046400)
 - [微信十年的产品思考](https://imzm.im/my-thoughts-on-wechat-ten-years)，[Archive](https://ipfs.io/ipfs/QmWx8239FEJYTmEMHNojWybWYbpsQRYs1XgYgB5bLUoQjS)
 - [微信给我推荐广场舞内容之后](https://www.huhexian.com/3766.html)，[Archive](https://web.archive.org/web/20210225070506/https://www.huhexian.com/3766.html)
+- [Understand WeChat The Hard Way - Neverland](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/)，[Archive](https://telegra.ph/Understand-WeChat-The-Hard-Way-04-16)
 
 
 ## 微信之外的选择
@@ -58,7 +62,7 @@
 ### 信息获取
 
 - [RSS](https://en.wikipedia.org/wiki/RSS)（[All About RSS](https://github.com/AboutRSS/ALL-about-RSS)）
-- [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
+- [Newsletter](https://en.wikipedia.org/wiki/Newsletter)（[中文 Newsletter 导航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)）
 - ……
 
 
