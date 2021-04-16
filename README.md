@@ -1,6 +1,6 @@
 <h1>人生苦短，远离微信</h1>
 
-<p style="color:gray">收集微信的无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等资料，倡导用户拒绝使用微信 👎️。欢迎提 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
+<p style="color:gray">收集微信的反人性设计、无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等资料，倡导用户拒绝使用微信 👎️。欢迎提 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
 </p> <br>
 
 > 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
@@ -13,8 +13,8 @@
 <h2>目录</h2>
 
 - [公开报道](#公开报道)
-- [学术研究](#学术研究)
 - [用户不满](#用户不满)
+- [学术研究](#学术研究)
 - [微信之外的选择](#微信之外的选择)
   - [即时通讯](#即时通讯)
   - [信息获取](#信息获取)
@@ -32,13 +32,6 @@
 | 2021-02-06 | 马化腾：每天都有超过 10 亿张照片上传，我们掌握了几乎每个中国人十几年来脸部变化。 | [Twitter](https://twitter.com/ma4103/status/1357915085436448771) |          [Archive.today](https://archive.vn/LP28b)           |
 
 
-## 学术研究
-
-|  📅 日期   |                            💭️ 标题                            |                            ✍️ 作者                            |
-| :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch/) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
-
-
 ## 用户不满
 
 - [逃离微信控制的一千个小时 - 少数派](https://sspai.com/post/37557)，[Archive](https://telegra.ph/逃离微信控制的一千个小时---少数派-02-04)
@@ -46,9 +39,16 @@
 - [微信 = GFW - 一天世界](https://blog.yitianshijie.net/2018/02/02/wechat-equals-gfw)，[Archive](https://web.archive.org/web/20201203020925/https://blog.yitianshijie.net/2018/02/02/wechat-equals-gfw)
 - [微信，是一个生活方式 - 一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)，[Archive](http://archive.vn/eJI0b)
 - [微信做了哪些恶 - Twitter](https://twitter.com/fak3D0nA1dT3UmP/status/1216446242131046400)，[Archive](https://web.archive.org/web/20210225073106/https://twitter.com/fak3D0nA1dT3UmP/status/1216446242131046400)
-- [微信十年的产品思考](https://imzm.im/my-thoughts-on-wechat-ten-years)，[Archive](https://ipfs.io/ipfs/QmWx8239FEJYTmEMHNojWybWYbpsQRYs1XgYgB5bLUoQjS)
-- [微信给我推荐广场舞内容之后](https://www.huhexian.com/3766.html)，[Archive](https://web.archive.org/web/20210225070506/https://www.huhexian.com/3766.html)
+- [微信十年的产品思考 - 陈仓颉](https://imzm.im/my-thoughts-on-wechat-ten-years)，[Archive](https://ipfs.io/ipfs/QmWx8239FEJYTmEMHNojWybWYbpsQRYs1XgYgB5bLUoQjS)
+- [微信给我推荐广场舞内容之后 - 青山绿水](https://www.huhexian.com/3766.html)，[Archive](https://web.archive.org/web/20210225070506/https://www.huhexian.com/3766.html)
 - [Understand WeChat The Hard Way - Neverland](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/)，[Archive](https://telegra.ph/Understand-WeChat-The-Hard-Way-04-16)
+
+
+## 学术研究
+
+|  📅 日期   |                            💭️ 标题                            |                            ✍️ 作者                            |
+| :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch/) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
 
 
 ## 微信之外的选择
@@ -62,7 +62,7 @@
 ### 信息获取
 
 - [RSS](https://en.wikipedia.org/wiki/RSS)（[All About RSS](https://github.com/AboutRSS/ALL-about-RSS)）
-- [Newsletter](https://en.wikipedia.org/wiki/Newsletter)（[中文 Newsletter 导航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)）
+- [Newsletter](https://en.wikipedia.org/wiki/Newsletter)（[中文 Newsletter 导航](https://www.notion.so/68ee46c0a4574f659fb8a873ead438c6)）
 - ……
 
 
