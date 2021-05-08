@@ -19,6 +19,7 @@
   - [即时通讯](#即时通讯)
   - [信息获取](#信息获取)
 - [推荐阅读](#推荐阅读)
+- [相关项目](#相关项目)
 
 
 ## 新闻报道
@@ -78,3 +79,8 @@
 - [The Right to Privacy - Harvard Law Review](https://louisville.edu/law/library/special-collections/the-louis-d.-brandeis-collection/the-right-to-privacy)
 - [Why Privacy Matters - TED](https://youtu.be/pcSlowAhvUk)
 
+## 相关项目
+
+- [逃离微信宣言](https://github.com/FreeFromGFW/FreeFromWechat)
+
+![逃离微信宣言海报](https://cdn.jsdelivr.net/gh/FreeFromGFW/FreeFromWechat/海报.jpeg)
