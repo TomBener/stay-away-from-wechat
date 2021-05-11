@@ -1,6 +1,6 @@
 <h1>人生苦短，远离微信</h1>
 
-<p style="color:gray">收集微信的反人性设计、无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等资料，倡导用户拒绝使用微信 👎️。欢迎提 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
+<p style="color:gray">收集微信的反人性设计、无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等资料，倡导用户拒绝使用微信 👎️。欢迎提交 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
 </p> <br>
 
 > 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
@@ -44,6 +44,7 @@
 - [微信十年的产品思考 - 陈仓颉](https://imzm.im/my-thoughts-on-wechat-ten-years)，[Archive](https://ipfs.io/ipfs/QmWx8239FEJYTmEMHNojWybWYbpsQRYs1XgYgB5bLUoQjS)
 - [微信给我推荐广场舞内容之后 - 青山绿水](https://www.huhexian.com/3766.html)，[Archive](https://web.archive.org/web/20210225070506/https://www.huhexian.com/3766.html)
 - [Understand WeChat The Hard Way - Neverland](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/)，[Archive](https://telegra.ph/Understand-WeChat-The-Hard-Way-04-16)
+- [朋友圈被微信屏蔽之后 - TomBen](https://blog.retompi.com/post/fucking-wechat/)，[Archive](https://web.archive.org/web/20210511115832/https://blog.retompi.com/post/fucking-wechat/)
 
 
 ## 学术研究
@@ -59,6 +60,7 @@
 
 - [iMessage](https://support.apple.com/zh-cn/explore/messages)（苹果设备）
 - [Telegram](https://telegram.org)（强烈推荐）
+  - [Telegram：新手指南、使用教程及频道推荐（持续更新中） | 庭说](https://tingtalk.me/telegram/)
 - [Signal](https://signal.org)
 
 ### 信息获取
@@ -66,6 +68,8 @@
 - [RSS](https://en.wikipedia.org/wiki/RSS)
   - [All About RSS](https://github.com/AboutRSS/ALL-about-RSS)：A list of RSS related stuff: tools, services, communities and tutorials, etc.
   - [WeChat-Feeds](https://wechat.privacyhide.com)：给微信公众号生成 RSS 订阅源
+  - [RSS Source](https://rss-source.com/)：2021年 RSS 订阅源推荐
+  - [#RSS - 少数派](https://sspai.com/tag/RSS)
 - [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
   - [中文 Newsletter 导航](https://www.notion.so/68ee46c0a4574f659fb8a873ead438c6)
 - ……
