@@ -45,6 +45,7 @@
 - [微信给我推荐广场舞内容之后 - 青山绿水](https://www.huhexian.com/3766.html)，[Archive](https://web.archive.org/web/20210225070506/https://www.huhexian.com/3766.html)
 - [Understand WeChat The Hard Way - Neverland](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/)，[Archive](https://telegra.ph/Understand-WeChat-The-Hard-Way-04-16)
 - [朋友圈被微信屏蔽之后 - TomBen](https://blog.retompi.com/post/fucking-wechat/)，[Archive](https://web.archive.org/web/20210511115832/https://blog.retompi.com/post/fucking-wechat/)
+- [#请停止你的张小龙行为：微信究竟还要笼罩中国人多久？- 酷安](https://www.coolapk.com/feed/21114760?shareKey=MWUyZDRlMzI4MjkwNjA5ODk0NjQ)，[Archive](https://archive.ph/G860P)
 
 
 ## 学术研究
