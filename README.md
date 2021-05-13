@@ -46,6 +46,7 @@
 - [Understand WeChat The Hard Way - Neverland](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/)，[Archive](https://telegra.ph/Understand-WeChat-The-Hard-Way-04-16)
 - [朋友圈被微信屏蔽之后 - TomBen](https://blog.retompi.com/post/fucking-wechat/)，[Archive](https://web.archive.org/web/20210511115832/https://blog.retompi.com/post/fucking-wechat/)
 - [#请停止你的张小龙行为：微信究竟还要笼罩中国人多久？- 酷安](https://www.coolapk.com/feed/21114760?shareKey=MWUyZDRlMzI4MjkwNjA5ODk0NjQ)，[Archive](https://archive.ph/G860P)
+- [一篇正经讨论人口普查数据的文章，在微信公众平台因内容违规无法查看，微信上何谈公共讨论 - Twitter](https://twitter.com/TomBener/status/1392420093364035585)，[Archive](https://archive.ph/yMTe0)
 
 
 ## 学术研究
@@ -69,10 +70,12 @@
 - [RSS](https://en.wikipedia.org/wiki/RSS)
   - [All About RSS](https://github.com/AboutRSS/ALL-about-RSS)：A list of RSS related stuff: tools, services, communities and tutorials, etc.
   - [WeChat-Feeds](https://wechat.privacyhide.com)：给微信公众号生成 RSS 订阅源
-  - [RSS Source](https://rss-source.com/)：2021年 RSS 订阅源推荐
+  - [RSS Source](https://rss-source.com/)：2021 年 RSS 订阅源推荐
   - [#RSS - 少数派](https://sspai.com/tag/RSS)
 - [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
+  - [把你的邮箱调教成最好的新闻阅读器](https://newslab2020.github.io/Collection/媒体食谱/%5B新闻实验室%5D%20-%202017-05-10%20把你的邮箱调教成最好的新闻阅读器｜媒体食谱07.html)
   - [中文 Newsletter 导航](https://www.notion.so/68ee46c0a4574f659fb8a873ead438c6)
+  - [Hedwig](https://hedwig.pub)
 - ……
 
 
