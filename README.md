@@ -1,6 +1,6 @@
 <h1>人生苦短，远离微信</h1>
 
-<p style="color:gray">收集微信的反人性设计、无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等资料，倡导用户拒绝使用微信 👎️。欢迎提交 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
+<p style="color:gray">收集微信的反人性设计、无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活相关信息，期望用户认识到微信的弊端，倡导用户用脚投票、拒绝使用微信 👎️。欢迎提交 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
 </p> <br>
 
 > 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
@@ -24,12 +24,12 @@
 
 ## 新闻报道
 
-|   📅 日期   |                            📖️ 案例                            |                            🤖️ 来源                            |                            💾️ 备份                            |
+|   📅 日期   |                            📖️ 标题                            |                            🤖️ 来源                            |                            💾️ 备份                            |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2020-06-19 |                逃离微信｜端传媒 Initium Media                | [端传媒 Initium Media](https://theinitium.com/article/20200619-technology-escape-from-wechat) | [Telegraph](https://telegra.ph/逃离微信端传媒-Initium-Media-06-19) |
-| 2020-12-22 | WeChat Becomes a Powerful Surveillance Tool Everywhere in China - The Wall Street Journal | [The Wall Street Journal](https://www.wsj.com/articles/wechat-becomes-a-powerful-surveillance-tool-everywhere-in-china-11608633003) |          [Archive.today](https://archive.ph/jtHVs)           |
+| 2020-06-19 |                           逃离微信                           | [端传媒 Initium Media](https://theinitium.com/article/20200619-technology-escape-from-wechat) | [Telegraph](https://telegra.ph/逃离微信端传媒-Initium-Media-06-19) |
+| 2020-12-22 | WeChat Becomes a Powerful Surveillance Tool Everywhere in China | [The Wall Street Journal](https://www.wsj.com/articles/wechat-becomes-a-powerful-surveillance-tool-everywhere-in-china-11608633003) |          [Archive.today](https://archive.ph/jtHVs)           |
 | 2021-01-24 | 继 QQ 读用户浏览器之后，一边说保护用户隐私要做输入法，一边读取用户浏览器的微信 |            [V2EX](https://www.v2ex.com/t/747692)             |          [Archive.today](https://archive.vn/2jQay)           |
-| 2021-01-25 | 贵州一女子因在微信群中骂社区支书“草包支书”，被毕节警方跨市铐走行拘 |   [东方今报](http://news.jinbw.com.cn/newsdetail/12143047)   | [竹新社](https://t.me/tnews365/10935)、[Archive.today](https://archive.vn/wip/YT24p) |
+| 2021-01-25 | 贵州一女子因在微信群中骂社区支书「草包支书」，被毕节警方跨市铐走行拘 |   [东方今报](http://news.jinbw.com.cn/newsdetail/12143047)   | [竹新社](https://t.me/tnews365/10935)、[Archive.today](https://archive.vn/wip/YT24p) |
 | 2021-02-03 |     深圳南山法院一审判决认定：微信好友关系不属于用户隐私     |       [人民法治](https://news.ifeng.com/c/83Yvtvi3iQR)       | [竹新社](https://t.me/tnews365/11104)、[Archive.today](https://archive.vn/dX2Gv) |
 | 2021-02-06 | 马化腾：每天都有超过 10 亿张照片上传，我们掌握了几乎每个中国人十几年来脸部变化。 | [Twitter](https://twitter.com/ma4103/status/1357915085436448771) |          [Archive.today](https://archive.vn/LP28b)           |
 
@@ -46,7 +46,7 @@
 - [Understand WeChat The Hard Way - Neverland](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/)，[Archive](https://telegra.ph/Understand-WeChat-The-Hard-Way-04-16)
 - [朋友圈被微信屏蔽之后 - TomBen](https://blog.retompi.com/post/fucking-wechat/)，[Archive](https://web.archive.org/web/20210511115832/https://blog.retompi.com/post/fucking-wechat/)
 - [#请停止你的张小龙行为：微信究竟还要笼罩中国人多久？- 酷安](https://www.coolapk.com/feed/21114760?shareKey=MWUyZDRlMzI4MjkwNjA5ODk0NjQ)，[Archive](https://archive.ph/G860P)
-- [一篇正经讨论人口普查数据的文章，在微信公众平台因内容违规无法查看，微信上何谈公共讨论 - Twitter](https://twitter.com/TomBener/status/1392420093364035585)，[Archive](https://archive.ph/yMTe0)
+- [一篇正经讨论人口普查数据的文章，在微信公众平台被认为违规，微信上何谈公共讨论？- Twitter](https://twitter.com/TomBener/status/1392420093364035585)，[Archive](https://archive.ph/yMTe0)
 
 
 ## 学术研究
@@ -74,7 +74,7 @@
   - [#RSS - 少数派](https://sspai.com/tag/RSS)
 - [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
   - [把你的邮箱调教成最好的新闻阅读器](https://newslab2020.github.io/Collection/媒体食谱/%5B新闻实验室%5D%20-%202017-05-10%20把你的邮箱调教成最好的新闻阅读器｜媒体食谱07.html)
-  - [中文 Newsletter 导航](https://www.notion.so/68ee46c0a4574f659fb8a873ead438c6)
+  - [中文 Newsletter 导航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
   - [Hedwig](https://hedwig.pub)
 - ……
 
