@@ -32,8 +32,8 @@
 | 2020-06-19 | 逃离微信 | [端传媒 Initium Media](https://theinitium.com/article/20200619-technology-escape-from-wechat) | [Telegraph](https://telegra.ph/逃离微信端传媒-Initium-Media-06-19) |
 | 2020-12-22 | WeChat Becomes a Powerful Surveillance Tool Everywhere in China | [The Wall Street Journal](https://www.wsj.com/articles/wechat-becomes-a-powerful-surveillance-tool-everywhere-in-china-11608633003) | [Archive.today](https://archive.ph/jtHVs) |
 | 2021-01-24 | 继 QQ 读用户浏览器之后，一边说保护用户隐私要做输入法，一边读取用户浏览器的微信 | [V2EX](https://www.v2ex.com/t/747692) | [Archive.today](https://archive.vn/2jQay) |
-| 2021-01-25 | 贵州一女子因在微信群中骂社区支书「草包支书」，被毕节警方跨市铐走行拘 | [东方今报](http://news.jinbw.com.cn/newsdetail/12143047) | [竹新社](https://t.me/tnews365/10935)、[Archive.today](https://archive.vn/wip/YT24p) |
-| 2021-02-03 | 深圳南山法院一审判决认定：微信好友关系不属于用户隐私 | [人民法治](https://news.ifeng.com/c/83Yvtvi3iQR) | [竹新社](https://t.me/tnews365/11104)、[Archive.today](https://archive.vn/dX2Gv) |
+| 2021-01-25 | 贵州一女子因在微信群中骂社区支书「草包支书」，被毕节警方跨市铐走行拘 | [东方今报](http://news.jinbw.com.cn/newsdetail/12143047) | [竹新社](https://t.me/s/tnews365/10935)、[Archive.today](https://archive.vn/wip/YT24p) |
+| 2021-02-03 | 深圳南山法院一审判决认定：微信好友关系不属于用户隐私 | [人民法治](https://news.ifeng.com/c/83Yvtvi3iQR) | [竹新社](https://t.me/s/tnews365/11104)、[Archive.today](https://archive.vn/dX2Gv) |
 | 2021-02-06 | 马化腾：每天都有超过 10 亿张照片上传，我们掌握了几乎每个中国人十几年来脸部变化。 | [Twitter](https://twitter.com/ma4103/status/1357915085436448771) | [Archive.today](https://archive.vn/LP28b) |
 
 ## 用户不满
@@ -65,8 +65,8 @@
 
 ### 即时通讯
 
-- [iMessage](https://support.apple.com/zh-cn/explore/messages)（苹果设备）
-- [Telegram](https://telegram.org)（强烈推荐）
+- [iMessage](https://support.apple.com/zh-cn/explore/messages)：苹果设备
+- [Telegram](https://telegram.org)：强烈推荐
   - [Telegram：新手指南、使用教程及频道推荐（持续更新中）- 庭说](https://tingtalk.me/telegram/)
 - [Signal](https://signal.org)
 
@@ -80,14 +80,16 @@
 - [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
   - [把你的邮箱调教成最好的新闻阅读器](https://newslab2020.github.io/Collection/媒体食谱/%5B新闻实验室%5D%20-%202017-05-10%20把你的邮箱调教成最好的新闻阅读器｜媒体食谱07.html)
   - [中文 Newsletter 导航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
-  - [Hedwig](https://hedwig.pub)
+  - [Hedwig](https://hedwig.pub): 一个简单可靠的邮件 Newsletter 创作平台
+  - [InboxReads](https://inboxreads.co): Find The Best Email Newsletters For Any Topic
+  - [Substack](https://substack.com): A place for independent writing. Subscribe directly to writers you trust
 - ……
 
 ### 移动支付
 
 - [支付宝](https://www.alipay.com)
-- [Apple Pay](https://www.apple.com.cn/apple-pay/)
 - [数字人民币](https://zh.wikipedia.org/zh-cn/数字人民币)
+- [Apple Pay](https://www.apple.com.cn/apple-pay/)
 - 银行卡
 
 
