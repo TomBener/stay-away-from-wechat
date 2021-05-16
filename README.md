@@ -22,6 +22,8 @@
 - [推荐阅读](#推荐阅读)
 - [相关项目](#相关项目)
 
+---
+
 
 ## 新闻报道
 
@@ -85,6 +87,7 @@
 
 - [支付宝](https://www.alipay.com)
 - [Apple Pay](https://www.apple.com.cn/apple-pay/)
+- [数字人民币](https://zh.wikipedia.org/zh-cn/数字人民币)
 - 银行卡
 
 
