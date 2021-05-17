@@ -73,7 +73,8 @@
 ### 信息获取
 
 - [RSS](https://en.wikipedia.org/wiki/RSS)
-  - [All About RSS](https://github.com/AboutRSS/ALL-about-RSS)：A list of RSS related stuff: tools, services, communities and tutorials, etc.
+  - [ALL about RSS](https://github.com/AboutRSS/ALL-about-RSS)：A list of RSS related stuff: tools, services, communities and tutorials, etc.
+  - [RSSHub](https://docs.rsshub.app): 🍰 万物皆可 RSS
   - [WeChat-Feeds](https://wechat.privacyhide.com)：给微信公众号生成 RSS 订阅源
   - [RSS Source](https://rss-source.com/)：2021 年 RSS 订阅源推荐
   - [#RSS - 少数派](https://sspai.com/tag/RSS)
@@ -90,6 +91,7 @@
 - [支付宝](https://www.alipay.com)
 - [数字人民币](https://zh.wikipedia.org/zh-cn/数字人民币)
 - [Apple Pay](https://www.apple.com.cn/apple-pay/)
+- [PayPal](https://www.paypal.com)
 - 银行卡
 
 
