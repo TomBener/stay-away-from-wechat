@@ -1,9 +1,9 @@
 <h1>人生苦短，远离微信</h1>
 
-<p style="color:gray">收集微信的反人性设计、无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活相关信息，期望用户认识到微信的弊端，倡导用户用脚投票、拒绝使用微信 👎️。欢迎提交 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
+<p style="color:gray">收集微信的反人性设计、无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活相关信息，期望用户认识到微信的弊病，倡导用户用脚投票、拒绝使用微信 👎️。欢迎提交 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
 </p> <br>
 
-> 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
+> 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [李如一](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
 
 > 在网络管制如此之严厉的内地，似乎也只有微信能保证一贯的通畅和高速。但更深层的原因恐怕是长时间被剥夺选择权带来的思维懒惰：既然只要打开微信就可以社交、阅读、消费，我为什么还要花时间去外面的世界一个个找呢？ —— [PlatyHsu](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/)
 
