@@ -9,6 +9,12 @@
 
 > 没有人知道变化是怎么发生的，但是当有人意识到这种变化似乎是个问题的时候，所有的挽救措施都已经来不及了。请勿寄希望于对方做出改变，自由只能通过自己争取而来。
 
+> The goal of public policy everywhere should be to increase access to the internet – the whole goddam internet, not some corporate-controlled alcove – for as many people as possible. By condoning zero-rating we will condemn to a lifetime of servitude as one of Master Zuckerberg’s sharecroppers. We can, and should, do better than that. —— [John Naughton](https://www.theguardian.com/technology/2015/jan/11/internet-access-developing-nations-facebook-domination)
+> 
+> ---
+> 
+> 无论在哪里，公共政策的目标都应当是增加互联网的接入 —— 完完整整的互联网、而不是被某些巨头控制的壁龛 —— 的访问率，使之尽可能惠及更多的人。接受零费率，就意味着被迫一辈子委身为扎克伯格的农奴。我们可以、而且应当做得更好。
+
 
 <h2>目录</h2>
 
@@ -92,7 +98,7 @@
 - [数字人民币](https://zh.wikipedia.org/zh-cn/数字人民币)
 - [Apple Pay](https://www.apple.com.cn/apple-pay/)
 - [PayPal](https://www.paypal.com)
-- 银行卡
+- 借记卡或信用卡
 
 
 ## 推荐阅读
