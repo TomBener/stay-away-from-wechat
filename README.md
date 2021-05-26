@@ -90,6 +90,7 @@
   - [Hedwig](https://hedwig.pub): 一个简单可靠的邮件 Newsletter 创作平台
   - [InboxReads](https://inboxreads.co): Find The Best Email Newsletters For Any Topic
   - [Substack](https://substack.com): A place for independent writing. Subscribe directly to writers you trust
+  - [Readsom](https://readsom.com): Discover content you’ll want to read
 - ……
 
 ### 移动支付
