@@ -97,6 +97,7 @@
   - [InboxReads](https://inboxreads.co): Find The Best Email Newsletters For Any Topic
   - [Substack](https://substack.com): A place for independent writing. Subscribe directly to writers you trust
   - [Readsom](https://readsom.com): Discover content you’ll want to read
+  - [Thanks for Subscribing](https://thanksforsubscribing.app): Discover the finest selection of indie newsletters around the web
 - ……
 
 ### 移动支付
