@@ -18,7 +18,7 @@
 
 <h2>目录</h2>
 
-- [新闻报道](#新闻报道)
+- [公开报道](#公开报道)
 - [用户不满](#用户不满)
 - [学术研究](#学术研究)
 - [微信之外的选择](#微信之外的选择)
@@ -31,7 +31,7 @@
 ---
 
 
-## 新闻报道
+## 公开报道
 
 | 📅 日期 | 📖️ 标题 | 🤖️ 来源 | 💾️ 备份 |
 | :--------: | :--------: | :--------: | :--------: |
@@ -64,6 +64,7 @@
 | 一篇正经讨论人口普查数据的文章，在微信公众平台被认为违规，微信上何谈公共讨论？ | [Twitter](https://twitter.com/TomBener/status/1392420093364035585) | [Archive.today](https://archive.ph/yMTe0) |
 | 微信科研，Best 科研？ | [两个圈 Two Circles](https://anchor.fm/twocircles24/episodes/Vol-21--Best-etjpsn/a-a52l319) | [Internet Archive](https://web.archive.org/web/20210515125353/https://anchor.fm/twocircles24/episodes/Vol-21--Best-etjpsn/a-a52l319) |
 | 在中国：TA 为什么不使用微信？ | [iYouPort](https://www.iyouport.org/在中国：ta为什么不使用微信？) | [IPFS](https://ipfs.io/ipfs/QmXDhT3zLF6dSc9nzbLmcMJczN1C1WwzEhyT3WGj4hEKMJ) |
+| 微信视频号，本质上这不过是注意力商人的又一门生意 | [Twitter](https://twitter.com/Jimmy_JingLv/status/1365105701794836481) | [Internet Archive](https://web.archive.org/web/20210226010543/https://twitter.com/Jimmy_JingLv/status/1365105701794836481) |
 
 
 ## 学术研究
