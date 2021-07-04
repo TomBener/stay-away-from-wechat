@@ -65,6 +65,7 @@
 | 微信科研，Best 科研？ | [两个圈 Two Circles](https://anchor.fm/twocircles24/episodes/Vol-21--Best-etjpsn/a-a52l319) | [Internet Archive](https://web.archive.org/web/20210515125353/https://anchor.fm/twocircles24/episodes/Vol-21--Best-etjpsn/a-a52l319) |
 | 在中国：TA 为什么不使用微信？ | [iYouPort](https://www.iyouport.org/在中国：ta为什么不使用微信？) | [IPFS](https://ipfs.io/ipfs/QmXDhT3zLF6dSc9nzbLmcMJczN1C1WwzEhyT3WGj4hEKMJ) |
 | 微信视频号，本质上这不过是注意力商人的又一门生意 | [Twitter](https://twitter.com/Jimmy_JingLv/status/1365105701794836481) | [Internet Archive](https://web.archive.org/web/20210226010543/https://twitter.com/Jimmy_JingLv/status/1365105701794836481) |
+| 如何与巨物对抗 | [一天世界](https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants/) | [Internet Archive](https://web.archive.org/web/20210625175143/https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants/) |
 | 张小龙探亲记 | [微博@麦芽原浆](https://telegra.ph/张小龙探亲记-06-27) | [Internet Archive](https://web.archive.org/web/20210702114536/https://telegra.ph/张小龙探亲记-06-27) |
 
 ## 学术研究
