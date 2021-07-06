@@ -1,7 +1,11 @@
 <h1>人生苦短，远离微信</h1>
 
-<p style="color:gray">收集微信的反人性设计、无理审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活相关信息，期望用户认识到微信的弊病，倡导用户用脚投票、拒绝使用微信 👎️。欢迎提交 <a href="https://github.com/TomBener/get-rid-of-wechat/issues">Issues</a> 和 <a href="https://github.com/TomBener/get-rid-of-wechat/pulls">Pull requests 🤖️</a>。
-</p> <br>
+收集微信的反人性设计、无耻审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等侵犯 [人权](https://www.un.org/en/about-us/universal-declaration-of-human-rights) 的行径，期望用户认识到微信的弊病，并提供微信之外的选择，倡导用户用脚投票、拒绝使用微信 👎️。
+
+🤖️ 欢迎提交 [Issues](https://github.com/TomBener/get-rid-of-wechat/issues) 和 [Pull requests](https://github.com/TomBener/get-rid-of-wechat/pulls)
+
+📖️ 点击下载 [PDF 版本](https://github.com/TomBener/stay-away-from-wechat/releases/tag/1.0)
+<br>
 
 > 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。—— [李如一](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle)
 
@@ -15,6 +19,7 @@
 > 
 > 无论在哪里，公共政策的目标都应当是增加互联网的接入 —— 完完整整的互联网、而不是被某些巨头控制的壁龛 —— 的访问率，使之尽可能惠及更多的人。接受零费率，就意味着被迫一辈子委身为扎克伯格的农奴。我们可以、而且应当做得更好。
 
+> 哪怕问问朋友「要不我们试试别的聊天软件」，也绝不是没有意义。大部分人不会问，所以问了就是改变的开始。当面问，问亲人、同事、同学。午休用餐时问，放学回家路上问。认真但温和地问，严肃但非对抗性地讨论。不要害怕她们觉得妳很奇怪。永远都会有人觉得妳奇怪，但永远也都有人和妳有同样的信念。—— [李如一](https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants)
 
 <h2>目录</h2>
 
@@ -80,8 +85,9 @@
 ### 即时通讯
 
 - [iMessage](https://support.apple.com/zh-cn/explore/messages)：苹果设备
+  - [iMessage 使用介绍 - 爱范儿](https://www.ifanr.com/app/1418693)
 - [Telegram](https://telegram.org)：强烈推荐
-  - [Telegram：新手指南、使用教程及频道推荐（持续更新中）- 庭说](https://tingtalk.me/telegram/)
+  - [Telegram：新手指南、使用教程及频道推荐（持续更新中）- 庭说](https://tingtalk.me/telegram)
 - [Signal](https://signal.org)
 
 ### 信息获取
@@ -89,7 +95,7 @@
 - [RSS](https://en.wikipedia.org/wiki/RSS)
   - [ALL about RSS](https://github.com/AboutRSS/ALL-about-RSS)：A list of RSS related stuff: tools, services, communities and tutorials, etc.
   - [RSSHub](https://docs.rsshub.app): 🍰 万物皆可 RSS
-  - [WeChat-Feeds](https://wechat.privacyhide.com)：给微信公众号生成 RSS 订阅源
+  - [RSSerpent](https://github.com/RSSerpent/RSSerpent)：帮助你使用 RSS 订阅那些不支持 RSS 订阅的网站
   - [RSS Source](https://rss-source.com/)：2021 年 RSS 订阅源推荐
   - [#RSS - 少数派](https://sspai.com/tag/RSS)
 - [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
@@ -118,6 +124,8 @@
 - [Are you free on the Internet? - Medium](https://mohammad-shavez.medium.com/are-you-free-on-the-internet-8fa7ea71a2bb)
 - [The Right to Privacy - Harvard Law Review](https://louisville.edu/law/library/special-collections/the-louis-d.-brandeis-collection/the-right-to-privacy)
 - [Why Privacy Matters - TED](https://youtu.be/pcSlowAhvUk)
+- [Why We Should End the Data Economy - Reboot](https://thereboot.com/why-we-should-end-the-data-economy)
+
 
 ## 相关项目
 
