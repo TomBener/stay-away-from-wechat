@@ -83,6 +83,8 @@
 | :------: | :-----: | :------: |
 | 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch/) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
 
+![微信图片审查](image-censorship-evidence.png)
+
 
 ## 微信之外的选择
 
