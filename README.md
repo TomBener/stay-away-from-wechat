@@ -43,15 +43,17 @@
 | 📅 日期 | 📖️ 标题 | 🤖️ 来源 | 💾️ 备份 |
 | :--------: | :--------: | :--------: | :--------: |
 | 2017-04-13 | China’s WeChat censoring ‘sensitive’ photos, not just text, study shows | [South China Morning Post](https://www.scmp.com/news/china/article/2087363/chinas-wechat-censoring-your-sensitive-photos-not-just-text-study-shows) | [Internet Archive](https://web.archive.org/web/20210220070001/https://www.scmp.com/news/china/article/2087363/chinas-wechat-censoring-your-sensitive-photos-not-just-text-study-shows) |
+| 2018-01-01 | 李书福炮轰微信侵犯隐私 | [圈内新知](https://www.sohu.com/a/214207636_99957087)、[YouTube](https://www.youtube.com/watch?v=F6x--qBscHM) |[Internet Archive](https://web.archive.org/web/20180104094303/https://www.sohu.com/a/214207636_99957087) |
 | 2018-09-21 | 为何我选择不依赖微信生活 | [纽约时报中文网](https://cn.nytimes.com/opinion/20180921/learning-to-survive-without-wechat/zh-hant/) | [Internet Archive](https://web.archive.org/web/20191210131756/https://cn.nytimes.com/opinion/20180921/learning-to-survive-without-wechat/zh-hant/) |
 | 2019-07-15 | How WeChat censors private conversations, automatically in real time | [MIT Technology Review](https://www.technologyreview.com/2019/07/15/134178/how-wechat-censors-private-conversations-automatically-in-real-time/) | [Internet Archive](https://web.archive.org/web/20210208101525/https://www.technologyreview.com/2019/07/15/134178/how-wechat-censors-private-conversations-automatically-in-real-time/) |
-| 2020-06-19 | 逃离微信 | [端传媒 Initium Media](https://theinitium.com/article/20200619-technology-escape-from-wechat) | [Telegraph](https://telegra.ph/逃离微信端传媒-Initium-Media-06-19) |
+| 2020-06-19 | 逃离微信 | [端传媒](https://theinitium.com/article/20200619-technology-escape-from-wechat) | [Telegraph](https://telegra.ph/逃离微信端传媒-Initium-Media-06-19) |
 | 2020-08-27 | How WeChat Censored the Coronavirus Pandemic | [WIRED](https://www.wired.com/story/wechat-chinese-internet-censorship-coronavirus/) | [Internet Archive](https://web.archive.org/web/20210119095340/https://www.wired.com/story/wechat-chinese-internet-censorship-coronavirus/) |
 | 2020-12-22 | WeChat Becomes a Powerful Surveillance Tool Everywhere in China | [The Wall Street Journal](https://www.wsj.com/articles/wechat-becomes-a-powerful-surveillance-tool-everywhere-in-china-11608633003) | [Archive.today](https://archive.ph/jtHVs) |
 | 2021-01-24 | 继 QQ 读用户浏览器之后，一边说保护用户隐私要做输入法，一边读取用户浏览器的微信 | [V2EX](https://www.v2ex.com/t/747692) | [Archive.today](https://archive.vn/2jQay) |
 | 2021-01-25 | 贵州一女子因在微信群中骂社区支书「草包支书」，被毕节警方跨市铐走行拘 | [东方今报](http://news.jinbw.com.cn/newsdetail/12143047) | [竹新社](https://t.me/s/tnews365/10935)、[Archive.today](https://archive.vn/wip/YT24p) |
 | 2021-02-03 | 深圳南山法院一审判决认定：微信好友关系不属于用户隐私 | [人民法治](https://news.ifeng.com/c/83Yvtvi3iQR) | [竹新社](https://t.me/s/tnews365/11104)、[Archive.today](https://archive.vn/dX2Gv) |
-| 2021-02-06 | 马化腾：每天都有超过 10 亿张照片上传，我们掌握了几乎每个中国人十几年来脸部变化。 | [Twitter](https://twitter.com/ma4103/status/1357915085436448771) | [Archive.today](https://archive.vn/LP28b) |
+| 2021-02-06 | 马化腾：每天都有超过 10 亿张照片上传，我们掌握了几乎每个中国人十几年来脸部变化 | [Twitter](https://twitter.com/ma4103/status/1357915085436448771) | [Archive.today](https://archive.vn/LP28b) |
+| 2021-07-06 | 清华、北大等各大高校性少数社团公众号被全部封禁  | [端传媒](https://theinitium.com/article/20210707-morning-brief/) | [竹新社](https://t.me/s/tnews365/14605)、[Archive.today](https://archive.ph/Zn0pS) |
 
 
 ## 用户不满
