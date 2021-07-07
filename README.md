@@ -137,4 +137,4 @@
 
 - [逃离微信宣言](https://github.com/FreeFromGFW/FreeFromWechat)
 
-![逃离微信宣言海报](https://cdn.jsdelivr.net/gh/FreeFromGFW/FreeFromWechat/海报.jpeg)
+![逃离微信宣言海报](free-from-wechat.jpg)
