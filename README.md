@@ -76,6 +76,9 @@
 | 微信视频号，本质上这不过是注意力商人的又一门生意 | [Twitter](https://twitter.com/Jimmy_JingLv/status/1365105701794836481) | [Internet Archive](https://web.archive.org/web/20210226010543/https://twitter.com/Jimmy_JingLv/status/1365105701794836481) |
 | 如何与巨物对抗 | [一天世界](https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants/) | [Internet Archive](https://web.archive.org/web/20210625175143/https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants/) |
 | 张小龙探亲记 | [微博@麦芽原浆](https://telegra.ph/张小龙探亲记-06-27) | [Internet Archive](https://web.archive.org/web/20210702114536/https://telegra.ph/张小龙探亲记-06-27) |
+| 不用微信的人 | [人物](https://mp.weixin.qq.com/s/BcYAJ95Pub3HQKXNF8XTLw) | [Internet Archive](https://web.archive.org/web/20210811034956/https://mp.weixin.qq.com/s/BcYAJ95Pub3HQKXNF8XTLw) |
+| 人生苦短，远离微信 | blog 34 | [Hayami](https://mp.weixin.qq.com/s/4Py6h2gklluARgWNBlPYHw) | [Internet Archive](https://web.archive.org/web/20210812144420/https://mp.weixin.qq.com/s/4Py6h2gklluARgWNBlPYHw) |
+
 
 ## 学术研究
 
