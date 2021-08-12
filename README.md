@@ -77,7 +77,7 @@
 | 如何与巨物对抗 | [一天世界](https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants/) | [Internet Archive](https://web.archive.org/web/20210625175143/https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants/) |
 | 张小龙探亲记 | [微博@麦芽原浆](https://telegra.ph/张小龙探亲记-06-27) | [Internet Archive](https://web.archive.org/web/20210702114536/https://telegra.ph/张小龙探亲记-06-27) |
 | 不用微信的人 | [人物](https://mp.weixin.qq.com/s/BcYAJ95Pub3HQKXNF8XTLw) | [Internet Archive](https://web.archive.org/web/20210811034956/https://mp.weixin.qq.com/s/BcYAJ95Pub3HQKXNF8XTLw) |
-| 人生苦短，远离微信 | blog 34 | [Hayami](https://mp.weixin.qq.com/s/4Py6h2gklluARgWNBlPYHw) | [Internet Archive](https://web.archive.org/web/20210812144420/https://mp.weixin.qq.com/s/4Py6h2gklluARgWNBlPYHw) |
+| 人生苦短，远离微信 | [Hayami](https://mp.weixin.qq.com/s/4Py6h2gklluARgWNBlPYHw) | [Internet Archive](https://web.archive.org/web/20210812144420/https://mp.weixin.qq.com/s/4Py6h2gklluARgWNBlPYHw) |
 
 
 ## 学术研究
