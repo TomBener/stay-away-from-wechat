@@ -98,6 +98,7 @@
 - [Telegram](https://telegram.org)：强烈推荐
   - [Telegram：新手指南、使用教程及频道推荐（持续更新中）- 庭说](https://tingtalk.me/telegram)
 - [Signal](https://signal.org)
+- [Session](https://getsession.org)
 
 ### 信息获取
 
