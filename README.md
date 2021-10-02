@@ -1,3 +1,13 @@
+<a href="https://github.com/TomBener/stay-away-from-wechat/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/TomBener/stay-away-from-wechat"></a>
+<a href="https://github.com/TomBener/stay-away-from-wechat/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/TomBener/stay-away-from-wechat?color=orange"></a>
+<a href="https://github.com/TomBener/stay-away-from-wechat/graphs/contributors" alt="Contributors">
+<img src="https://img.shields.io/github/contributors/TomBener/stay-away-from-wechat" /></a>
+<a href="https://github.com/TomBener/stay-away-from-wechat/graphs/issues" alt="Issues">
+<img src="https://img.shields.io/github/issues/TomBener/stay-away-from-wechat" /></a>
+<a href="https://twitter.com/intent/tweet?text=人生苦短，远离微信：&url=https%3A%2F%2Fgithub.com%2FTomBener%2Fstay-away-from-wechat"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FTomBener%2Fstay-away-from-wechat"></a>
+<br>
+
+
 <h1>人生苦短，远离微信</h1>
 
 收集微信的反人性设计、无耻审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等侵犯 [人权](https://www.un.org/zh/about-us/universal-declaration-of-human-rights) 的行径，期望用户认识到微信的弊病，并提供微信之外的选择，倡导用户用脚投票、拒绝使用微信 👎️。
