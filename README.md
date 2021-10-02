@@ -3,8 +3,6 @@
 收集微信的反人性设计、无耻审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等侵犯 [人权](https://www.un.org/zh/about-us/universal-declaration-of-human-rights) 的行径，期望用户认识到微信的弊病，并提供微信之外的选择，倡导用户用脚投票、拒绝使用微信 👎️。
 
 🤖️ 欢迎提交 [Issues](https://github.com/TomBener/get-rid-of-wechat/issues) 和 [Pull requests](https://github.com/TomBener/get-rid-of-wechat/pulls)
-
-📖️ 点击下载 [PDF 版本](https://github.com/TomBener/stay-away-from-wechat/blob/master/README.pdf)
 <br>
 
 ---
@@ -30,6 +28,7 @@
 - [学术研究](#学术研究)
 - [微信之外的选择](#微信之外的选择)
   - [即时通讯](#即时通讯)
+  - [远程协作 / 群组讨论](#远程协作--群组讨论)
   - [信息获取](#信息获取)
   - [移动支付](#移动支付)
 - [推荐阅读](#推荐阅读)
@@ -98,7 +97,13 @@
 - [Telegram](https://telegram.org)：强烈推荐
   - [Telegram：新手指南、使用教程及频道推荐（持续更新中）- 庭说](https://tingtalk.me/telegram)
 - [Signal](https://signal.org)
-- [Session](https://getsession.org)
+- [Keybase](https://keybase.io)
+
+### 远程协作 / 群组讨论
+
+- Slack
+- Discord
+- 飞书
 
 ### 信息获取
 
@@ -107,6 +112,7 @@
   - [RSSHub](https://docs.rsshub.app): 🍰 万物皆可 RSS
   - [RSSerpent](https://github.com/RSSerpent/RSSerpent)：帮助你使用 RSS 订阅那些不支持 RSS 订阅的网站
   - [RSS Source](https://rss-source.com/)：2021 年 RSS 订阅源推荐
+  - [Feeddd](https://feeddd.org) - 免费的微信公众号 RSS
   - [#RSS - 少数派](https://sspai.com/tag/RSS)
 - [Newsletter](https://en.wikipedia.org/wiki/Newsletter)
   - [把你的邮箱调教成最好的新闻阅读器](https://newslab2020.github.io/Collection/媒体食谱/%5B新闻实验室%5D%20-%202017-05-10%20把你的邮箱调教成最好的新闻阅读器｜媒体食谱07.html)
@@ -116,15 +122,18 @@
   - [Substack](https://substack.com): A place for independent writing. Subscribe directly to writers you trust
   - [Readsom](https://readsom.com): Discover content you’ll want to read
   - [Thanks for Subscribing](https://thanksforsubscribing.app): Discover the finest selection of indie newsletters around the web
-- ……
+  - [The Sample](https://thesample.ai): Add some variety to your information diet
 
 ### 移动支付
 
+- 现金：拒收现金 违反《[中华人民共和国人民币管理条例](http://www.gov.cn/gongbao/content/2019/content_5468922.htm)》
+- 借记卡
+- 信用卡
+- 云闪付：微信支付、支付宝支付与银联云闪付 App 实现 [互认互扫](https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6466353.shtml)
 - [支付宝](https://www.alipay.com)
 - [数字人民币](https://zh.wikipedia.org/zh-cn/数字人民币)
 - [Apple Pay](https://www.apple.com.cn/apple-pay/)
 - [PayPal](https://www.paypal.com)
-- 借记卡或信用卡
 
 
 ## 推荐阅读
