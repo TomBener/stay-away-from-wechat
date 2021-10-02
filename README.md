@@ -101,9 +101,10 @@
 
 ### 远程协作 / 群组讨论
 
-- Slack
-- Discord
-- 飞书
+- [Slack](https://slack.com)
+- [Discord](https://discord.com)
+- [飞书](https://www.feishu.cn)
+  - [Lark](https://www.larksuite.com)（飞书海外版）
 
 ### 信息获取
 
@@ -126,10 +127,10 @@
 
 ### 移动支付
 
-- 现金：拒收现金 违反《[中华人民共和国人民币管理条例](http://www.gov.cn/gongbao/content/2019/content_5468922.htm)》
+- 现金：拒收现金违反《[中华人民共和国人民币管理条例](http://www.gov.cn/gongbao/content/2019/content_5468922.htm)》
 - 借记卡
 - 信用卡
-- 云闪付：微信支付、支付宝支付与银联云闪付 App 实现 [互认互扫](https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6466353.shtml)
+- 云闪付：微信支付、支付宝支付与银联云闪付 App 实现 [互认互扫](https://web.archive.org/web/20211002064105/https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6466353.shtml)
 - [支付宝](https://www.alipay.com)
 - [数字人民币](https://zh.wikipedia.org/zh-cn/数字人民币)
 - [Apple Pay](https://www.apple.com.cn/apple-pay/)
