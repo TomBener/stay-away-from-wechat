@@ -93,9 +93,13 @@
 
 | 📅 日期 | 💭️ 标题 | ✍️ 作者 |
 | :------: | :-----: | :------: |
-| 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch/) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
+| 2020-05-07 | [We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus](https://citizenlab.ca/2020/05/we-chat-they-watch) | Jeffrey Knockel, Christopher Parsons, Lotus Ruan, Ruohan Xiong, Jedidiah Crandall, and Ron Deibert |
 
 ![微信图片审查](image-censorship-evidence.png)
+
+| 📅 日期 | 💭️ 标题 | ✍️ 作者 |
+| :------: | :-----: | :------: |
+| 2021-10-04 | [Censorship in the Semi-Private Domain: A Theory of Cross-Domain Variation and Evidence from WeChat](https://doi.org/10.1080/10670564.2021.1985839) | Elliot Ji, Zack Bowersox |
 
 
 ## 微信之外的选择
@@ -140,7 +144,7 @@
 - 现金：拒收现金违反《[中华人民共和国人民币管理条例](http://www.gov.cn/gongbao/content/2019/content_5468922.htm)》
 - 借记卡
 - 信用卡
-- 云闪付：微信支付、支付宝支付与银联云闪付 App 实现 [互认互扫](https://web.archive.org/web/20211002064105/https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6466353.shtml)
+- [云闪付](https://yunshanfu.unionpay.com)：微信支付、支付宝支付与银联云闪付 App 实现 [互认互扫](https://web.archive.org/web/20211002064105/https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6466353.shtml)
 - [支付宝](https://www.alipay.com)
 - [数字人民币](https://zh.wikipedia.org/zh-cn/数字人民币)
 - [Apple Pay](https://www.apple.com.cn/apple-pay/)
