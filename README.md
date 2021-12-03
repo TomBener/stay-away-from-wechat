@@ -1,3 +1,5 @@
+<h1>人生苦短，远离微信</h1>
+
 <a href="https://github.com/TomBener/stay-away-from-wechat/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/TomBener/stay-away-from-wechat"></a>
 <a href="https://github.com/TomBener/stay-away-from-wechat/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/TomBener/stay-away-from-wechat?color=orange"></a>
 <a href="https://github.com/TomBener/stay-away-from-wechat/graphs/contributors" alt="Contributors">
@@ -6,9 +8,6 @@
 <img src="https://img.shields.io/github/issues/TomBener/stay-away-from-wechat" /></a>
 <a href="https://twitter.com/intent/tweet?text=人生苦短，远离微信：&url=https%3A%2F%2Fgithub.com%2FTomBener%2Fstay-away-from-wechat"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FTomBener%2Fstay-away-from-wechat"></a>
 <br>
-
-
-<h1>人生苦短，远离微信</h1>
 
 收集微信的反人性设计、无耻审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等侵犯 [人权](https://www.un.org/zh/about-us/universal-declaration-of-human-rights) 的行径，期望用户认识到微信的弊病，并提供微信之外的选择，倡导用户用脚投票、拒绝使用微信 👎️。
 
@@ -63,6 +62,8 @@
 | 2021-02-03 | 深圳南山法院一审判决认定：微信好友关系不属于用户隐私 | [人民法治](https://news.ifeng.com/c/83Yvtvi3iQR) | [竹新社](https://t.me/s/tnews365/11104)、[Archive.today](https://archive.vn/dX2Gv) |
 | 2021-02-06 | 马化腾：每天都有超过 10 亿张照片上传，我们掌握了几乎每个中国人十几年来脸部变化 | [Twitter](https://twitter.com/ma4103/status/1357915085436448771) | [Archive.today](https://archive.vn/LP28b) |
 | 2021-07-06 | 清华、北大等各大高校性少数社团公众号被全部封禁  | [端传媒](https://theinitium.com/article/20210707-morning-brief/) | [竹新社](https://t.me/s/tnews365/14605)、[Archive.today](https://archive.ph/Zn0pS) |
+| 2021-11-01 | 宁夏一男子在微信群发表情包被指辱警，行政拘留 9 日 | [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_15166139) | [乌鸦观察](https://t.me/s/bigcrowdev/19646)、[Archive.today](https://archive.md/mkh5u) |
+| 2021-11-25 | China’s State-Run Companies Limit Use of Tencent’s Messaging App | [The Wall Street Journal](https://www.wsj.com/articles/chinas-state-run-firms-limit-use-of-tencents-messaging-app-11637837474) | [竹新社](https://t.me/s/tnews365/18690)、[Archive.today](https://archive.md/I5bH5) |
 
 
 ## 用户不满
