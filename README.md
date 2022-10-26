@@ -30,6 +30,8 @@
 
 > 哪怕问问朋友「要不我们试试别的聊天软件」，也绝不是没有意义。大部分人不会问，所以问了就是改变的开始。当面问，问亲人、同事、同学。午休用餐时问，放学回家路上问。认真但温和地问，严肃但非对抗性地讨论。不要害怕她们觉得妳很奇怪。永远都会有人觉得妳奇怪，但永远也都有人和妳有同样的信念。—— [李如一](https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants)
 
+> I argue that western tech giants, like Facebook and Google, have inherent drawbacks of the capitalism. For example, they tend to violate the privacy of users for profits. But in China, big tech companies are worse with both defects of capitalism and totalitarianism, as they are totally controlled by the authoritarian regime.
+
 <h2>目录</h2>
 
 - [公开报道](#公开报道)
@@ -95,7 +97,7 @@
 | 看到今天朋友圈大家一遍遍分享链接一遍遍被屏蔽的时候，我又想起了：这就是我讨厌微信的原因 | [Twitter](https://twitter.com/roczhang9673/status/1517546979110252544) | [Archive.today](https://archive.ph/Quq5s) |
 | 作为一个社会企业，以商业盈利为目的，却承担了维护国家治安的职责 —— 我认为这就是现在的微信 | [Matters](https://matters.news/@ziijinnx/264723-微信-bafyreigoe3sm2cgeb3u6kjgvrgptz76bllffq3d4nlc3mkpgvzmm2td4me) | [Archive.today](https://archive.ph/PhwN2) |
 | 反人类的微信文件存储逻辑 | [微博精选](https://t.me/weibo_read/93712) | - |
-| 钟情于微信的人，在我看来缺少一种反抗和自由的精神 | [渚碧](https://twitter.com/roczhang9673/status/1517546979110252544) | [Intert Archive](https://web.archive.org/web/20220831112255/https://jubeny.com/2022/08/the-minimum-limit-usage/) |
+| 钟情于微信的人，在我看来缺少一种反抗和自由的精神 | [渚碧](https://jubeny.com/2022/08/the-minimum-limit-usage) | [Intert Archive](https://web.archive.org/web/20220831112255/https://jubeny.com/2022/08/the-minimum-limit-usage) |
 
 
 ## 学术研究
