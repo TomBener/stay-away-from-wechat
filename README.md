@@ -23,9 +23,9 @@
 > 没有人知道变化是怎么发生的，但是当有人意识到这种变化似乎是个问题的时候，所有的挽救措施都已经来不及了。请勿寄希望于对方做出改变，自由只能通过自己争取而来。
 
 > The goal of public policy everywhere should be to increase access to the internet – the whole goddam internet, not some corporate-controlled alcove – for as many people as possible. By condoning zero-rating we will condemn to a lifetime of servitude as one of Master Zuckerberg’s sharecroppers. We can, and should, do better than that. —— [John Naughton](https://www.theguardian.com/technology/2015/jan/11/internet-access-developing-nations-facebook-domination)
-> 
+>
 > ---
-> 
+>
 > 无论在哪里，公共政策的目标都应当是增加互联网的接入 —— 完完整整的互联网、而不是被某些巨头控制的壁龛 —— 的访问率，使之尽可能惠及更多的人。接受零费率，就意味着被迫一辈子委身为扎克伯格的农奴。我们可以、而且应当做得更好。
 
 > 哪怕问问朋友「要不我们试试别的聊天软件」，也绝不是没有意义。大部分人不会问，所以问了就是改变的开始。当面问，问亲人、同事、同学。午休用餐时问，放学回家路上问。认真但温和地问，严肃但非对抗性地讨论。不要害怕她们觉得妳很奇怪。永远都会有人觉得妳奇怪，但永远也都有人和妳有同样的信念。—— [李如一](https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants)
@@ -64,6 +64,7 @@
 | 2021-07-06 | 清华、北大等各大高校性少数社团公众号被全部封禁  | [端传媒](https://theinitium.com/article/20210707-morning-brief/) | [竹新社](https://t.me/s/tnews365/14605)、[Archive.today](https://archive.ph/Zn0pS) |
 | 2021-11-01 | 宁夏一男子在微信群发表情包被指辱警，行政拘留 9 日 | [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_15166139) | [乌鸦观察](https://t.me/s/bigcrowdev/19646)、[Archive.today](https://archive.md/mkh5u) |
 | 2021-11-25 | China’s State-Run Companies Limit Use of Tencent’s Messaging App | [The Wall Street Journal](https://www.wsj.com/articles/chinas-state-run-firms-limit-use-of-tencents-messaging-app-11637837474) | [竹新社](https://t.me/s/tnews365/18690)、[Archive.today](https://archive.md/I5bH5) |
+| 2022-10-18 | The dark side of a super app like WeChat | [MIT Technology Review](https://www.technologyreview.com/2022/10/18/1061899/dark-side-super-app-wechat) | [Internet Archive](https://web.archive.org/web/20221021195204/https://www.technologyreview.com/2022/10/18/1061899/dark-side-super-app-wechat) |
 
 
 ## 用户不满
@@ -89,6 +90,12 @@
 | 不用微信的人 | [人物](https://mp.weixin.qq.com/s/BcYAJ95Pub3HQKXNF8XTLw) | [Internet Archive](https://web.archive.org/web/20210811034956/https://mp.weixin.qq.com/s/BcYAJ95Pub3HQKXNF8XTLw) |
 | 人生苦短，远离微信 | [Hayami](https://mp.weixin.qq.com/s/4Py6h2gklluARgWNBlPYHw) | [Internet Archive](https://web.archive.org/web/20210812144420/https://mp.weixin.qq.com/s/4Py6h2gklluARgWNBlPYHw) |
 | 微信在 iOS 后台反复读取用户相册 | [ Apple Nuts](https://t.me/s/AppleNuts/1301) | [IPFS](https://ipfs.io/ipfs/QmR2osFPFBjZn1b5LR8KjphjkeEDcp9WXrdxexV72nAxKC) |
+| 贺卫方第六次遭微信封号 手写《控诉腾讯公司肆意封号书》 | [Twitter](https://twitter.com/JingzhouTao/status/1489451256108105731) | [中国数字时代](https://chinadigitaltimes.net/chinese/676477.html) |
+| 盘点微信四大块「反人类」设计 | [Luv Letter](https://www.youtube.com/watch?v=OxZGDx6Jguc) | - |
+| 看到今天朋友圈大家一遍遍分享链接一遍遍被屏蔽的时候，我又想起了：这就是我讨厌微信的原因 | [Twitter](https://twitter.com/roczhang9673/status/1517546979110252544) | [Archive.today](https://archive.ph/Quq5s) |
+| 作为一个社会企业，以商业盈利为目的，却承担了维护国家治安的职责 —— 我认为这就是现在的微信 | [Matters](https://matters.news/@ziijinnx/264723-微信-bafyreigoe3sm2cgeb3u6kjgvrgptz76bllffq3d4nlc3mkpgvzmm2td4me) | [Archive.today](https://archive.ph/PhwN2) |
+| 反人类的微信文件存储逻辑 | [微博精选](https://t.me/weibo_read/93712) | - |
+| 钟情于微信的人，在我看来缺少一种反抗和自由的精神 | [渚碧](https://twitter.com/roczhang9673/status/1517546979110252544) | [Intert Archive](https://web.archive.org/web/20220831112255/https://jubeny.com/2022/08/the-minimum-limit-usage/) |
 
 
 ## 学术研究
@@ -114,13 +121,13 @@
   - [Telegram：新手指南、使用教程及频道推荐（持续更新中）- 庭说](https://tingtalk.me/telegram)
 - [Signal](https://signal.org)
 - [Keybase](https://keybase.io)
+- [WhatsApp](https://www.whatsapp.com)
 
 ### 远程协作 / 群组讨论
 
 - [Slack](https://slack.com)
 - [Discord](https://discord.com)
-- [飞书](https://www.feishu.cn)
-  - [Lark](https://www.larksuite.com)（飞书海外版）
+- [飞书](https://www.feishu.cn) / [Lark](https://www.larksuite.com)
 
 ### 信息获取
 
