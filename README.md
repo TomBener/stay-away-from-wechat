@@ -79,7 +79,7 @@
 | 微信，是一个生活方式 | [一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle) |[Archive.today](http://archive.vn/eJI0b) |
 | 微信做了哪些恶 | [Twitter](https://twitter.com/fak3D0nA1dT3UmP/status/1216446242131046400) | [Internet Archive](https://web.archive.org/web/20210225073106/https://twitter.com/fak3D0nA1dT3UmP/status/1216446242131046400) |
 | 微信十年的产品思考 | [陈仓颉](https://imzm.im/my-thoughts-on-wechat-ten-years) | [IPFS](https://ipfs.io/ipfs/QmWx8239FEJYTmEMHNojWybWYbpsQRYs1XgYgB5bLUoQjS) |
-| 微信给我推荐广场舞内容之后 | [青山绿水](https://www.huhexian.com/3766.html) | [Internet Archive](https://web.archive.org/web/20210225070506/https://www.huhexian.com/3766.html) |
+| 微信给我推荐广场舞内容之后 | [青山绿水](https://eirms.com/3766.html) | [Internet Archive](https://web.archive.org/web/20210225070506/https://www.huhexian.com/3766.html) |
 | Understand WeChat The Hard Way | [Neverland](https://type.cyhsu.xyz/2015/10/understand-wechat-the-hard-way/) | [Telegraph](https://telegra.ph/Understand-WeChat-The-Hard-Way-04-16) |
 | 朋友圈被微信屏蔽之后 | [TomBen](https://blog.retompi.com/post/fucking-wechat/) | [Internet Archive](https://web.archive.org/web/20210511115832/https://blog.retompi.com/post/fucking-wechat/) |
 | 请停止你的张小龙行为：微信究竟还要笼罩中国人多久？ | [酷安](https://www.coolapk.com/feed/21114760?shareKey=MWUyZDRlMzI4MjkwNjA5ODk0NjQ) | [Archive.today](https://archive.ph/G860P) |
